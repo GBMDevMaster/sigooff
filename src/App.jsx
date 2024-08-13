@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className="background">
-      <br /><br /><br /><br /><br /><br /><br /><br />
+      <h1 style={{ color: 'white' }}>Bad, Bad Server, No donuts for you!</h1>
     </div>
     </>
   )
